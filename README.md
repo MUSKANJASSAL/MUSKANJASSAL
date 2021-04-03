@@ -8,13 +8,14 @@
 - 📫 Reach me at muskan124.jassal@gmail.com
 - 😄 Pronouns: She/Hers
 - ⚡  Fun fact: Art and Crafts are something I enjoy doing.
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="muskanjassal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="muskanjassal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="muskanjassal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 
 ### Languages and Tools:
 
@@ -26,6 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
