@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on Backend
 - 🌱 I’m currently learning everything 😹 
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on developing and improving my repositories.
 - 🤔 I’m looking for help with new opportunities
-- 💬 Ask me about 
+- 💬 Ask me about any new idea.
 - 📫 Reach me at muskan124.jassal@gmail.com
-- 😄 Pronouns: She/Hers
+- 😄 Pronouns: She/Her
 - ⚡  Fun fact: Art and Crafts are something I enjoy doing.
 
 ### Connect with me:
