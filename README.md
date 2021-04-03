@@ -8,3 +8,5 @@
 - 📫 Reach me at muskan124.jassal@gmail.com
 - 😄 Pronouns: She/Hers
 - ⚡  Fun fact: Art and Crafts are something I enjoy doing.
+
+[LinkedIn: muskan-jassal](https://www.linkedin.com/in/muskan-jassal-166311161/)
