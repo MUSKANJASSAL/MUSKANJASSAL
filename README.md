@@ -52,6 +52,9 @@
 [twitter]: https://twitter.com/MuskanJassal
 [linkedin]: https://www.linkedin.com/in/muskan-jassal-166311161/
 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{karan-ksrk}/count.svg" /></p> 
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
