@@ -7,7 +7,7 @@
 - 💬 Ask me about any new idea.
 - 📫 Reach me at muskan124.jassal@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡  Fun fact: Art and Crafts are something I enjoy doing.
+- ⚡ Hobby: Art and Crafts are something I enjoy doing.
 
 ### Connect with me:
 
