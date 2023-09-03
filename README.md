@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with new opportunities
 - 💬 Ask me about any new idea.
 - 📫 Reach me at muskan124.jassal@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Hobby: Art and Crafts are something I enjoy doing.
 
 ### Connect with me:
